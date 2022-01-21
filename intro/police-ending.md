@@ -2,4 +2,4 @@
 
 *blah blah blah text here*
 
-[Try again](home.md)
+[Try again](../home.md)
