@@ -8,5 +8,5 @@ On the RIGHT it is the break room, where the workers eat lunch and rest
 
 Click [here](../two/bad-end.md) to go into the storage room 
 
-Click [here](../two/good-end.md) to go into the break room 
+Click [here](../two/how-to-escape.md) to go into the break room 
 
