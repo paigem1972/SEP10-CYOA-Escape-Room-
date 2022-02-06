@@ -8,4 +8,4 @@ Weeks passed and you slowly start to starve..
 
 You end up DEAD. 
 
-Click [here](../two/what-room.md to go back
+Click [here](../two/what-room.md) to go back to choosing a room 
