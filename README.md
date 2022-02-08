@@ -5,5 +5,5 @@ The purpose of creating this repository was to practice collaboration and work o
 
 [Google Drawing](https://docs.google.com/drawings/d/1Ye-TPvRX_4i4__fhzMDuNdx-Hp6ot7tnPTyAnoDwMYU/edit)
 
-Made by [Valentine Montana](https://github.com/paigem1972), [Vivian Zheng](https://github.com/vivianz7319), [Siying Zheng](https://github.com/siyingz3984)
+Made by [Valentine Montana](https://github.com/paigem1972), [Vivian Zheng](https://github.com/vivianz7319), and [Siying Zheng](https://github.com/siyingz3984)
 
